@@ -42,3 +42,12 @@ Before running the application, ensure you have the following installed:
 
 5. **Testing the Endpoints**  
    You can use tools like Postman or curl to test the authentication endpoints.
+   Import Postman Collection
+
+
+To test the endpoints using Postman, you can import the provided Postman collection:
+
+    Open Postman.
+    Click on the "Import" button in the top left corner.
+    Select the jwt test.postman_collection.json file from the repository.
+    Click "Import" to load the collection.
